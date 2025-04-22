@@ -2,6 +2,7 @@
 
 This public repository is no longer maintained. Please see [this issue](https://github.com/SAP/gorfc/issues/42) for details.
 
+
 ![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
 
 ---
